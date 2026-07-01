@@ -43,7 +43,7 @@
 
 *   🎯 **[認證查驗]** [Red Hat | Cisco 官方 Credly 數位徽章](https://www.credly.com/users/sung-chi-lan/badges/credly)
 *   💻 **[核心專案]** [相關project 與 demo in github](https://github.com/lnso567)
-  * [論文概述]與資料檔(https://github.com/lnso567/Ransomware-Detection-with-Ensemble-Learning-Master-s-Thesis-)
+  * [論文概述與資料檔/程式碼參考](https://github.com/lnso567/Ransomware-Detection-with-Ensemble-Learning-Master-s-Thesis-)
 *   📄 **[電子檔下載]** [Google Drive PDF 電子履歷與相關共享檔案](https://drive.google.com/drive/folders/1RiWP0eAkb3zjiQ0Jw9-0H4beC9dNMnPW?usp=sharing)
 *   ✉️ **[104完整狀態]** [104 人力銀行個人檔案](https://pda.104.com.tw/profile/share/bIfQPSL7lcZGBw88V1DlNJflcG0XHtjo)
 
