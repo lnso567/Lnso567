@@ -37,10 +37,6 @@
 ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
 
 
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-
 ### SRE & Cloud Infrastructure Engineer | RHCA Candidate
 
 以下是我的完整數位資產與聯繫方式：
